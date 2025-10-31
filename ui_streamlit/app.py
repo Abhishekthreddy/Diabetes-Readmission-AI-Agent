@@ -5,7 +5,7 @@ from utils import predict_combined
 
 st.set_page_config(page_title="Readmission Risk AI", layout="centered")
 
-st.title("🧠 Diabetes Readmission Predictor")
+st.title("Diabetes Readmission Predictor")
 
 with st.form("patient_form"):
     age = st.slider("Age", 18, 100, 60)
