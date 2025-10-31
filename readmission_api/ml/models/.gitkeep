@@ -1,0 +1,4 @@
+# This file ensures the ml/models/ directory is tracked by Git
+# Trained model files (.pkl) will be saved here
+# Note: Model files are gitignored due to size - use Git LFS or external storage
+

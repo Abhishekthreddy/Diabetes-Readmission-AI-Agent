@@ -1,0 +1,3 @@
+# This file ensures the data/processed/synthea/ directory is tracked by Git
+# Synthea parquet files will be generated here
+
